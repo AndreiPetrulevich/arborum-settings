@@ -3,4 +3,8 @@ spring.datasource:
   username: '{chiper}AQDNbegxpeaHzsOf0UiMvx+phfbbXWdjd5qnLErR/O3xVVvZbpfw+Kr2P9iGyZ9z3cjKDn001e9BEqj2lC1N7vMLJ4H3C0a6mAPLsu8RUeeJMZ0GJgNyj1VYIpYlaUXcrMjJignlMA8RxpcIC3ndOAJ/TFl/weoSV/YMeM1YgFkuOITe4TmcM9muQ3Q+qgAmdrrEkblfSQ4irKT6zlQ/NFwLVNIWg0OFz3ymb8AIjkIq8eE0b9Zj8Wph2SBzVAAVy0pRoigZI/aqU+J29nM+xUlVGZKugUeVgVDTO0DE+j3UidTBlOCVYRFzn4ClZXmot6wv0WVDc1woRxE5uJySrjtvZaNNtGSUF2EXFeQ1TFoSf7uU7PoaKyNNxQug5/oZymU='
   password: '{chiper}AQDNbegxpeaHzsOf0UiMvx+phfbbXWdjd5qnLErR/O3xVVvZbpfw+Kr2P9iGyZ9z3cjKDn001e9BEqj2lC1N7vMLJ4H3C0a6mAPLsu8RUeeJMZ0GJgNyj1VYIpYlaUXcrMjJignlMA8RxpcIC3ndOAJ/TFl/weoSV/YMeM1YgFkuOITe4TmcM9muQ3Q+qgAmdrrEkblfSQ4irKT6zlQ/NFwLVNIWg0OFz3ymb8AIjkIq8eE0b9Zj8Wph2SBzVAAVy0pRoigZI/aqU+J29nM+xUlVGZKugUeVgVDTO0DE+j3UidTBlOCVYRFzn4ClZXmot6wv0WVDc1woRxE5uJySrjtvZaNNtGSUF2EXFeQ1TFoSf7uU7PoaKyNNxQug5/oZymU='
 
+arborum.api:
+  endpoint:
+    base-uri: '127.0.0.1:8080'
+
 app.setting: 'dv'
